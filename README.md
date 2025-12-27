@@ -1,8 +1,36 @@
-Hi 👋, I'm SPK VASEEM</h1>
-- 🌱 I’m currently learning at **Besant Technologies**
-- ---Email: spkvaseem2004@gmail.com
- About Me:
-<br>🎓 Currently pursuing training at Besant Technologies<br>💻 Passionate about learning and building projects in Data Science / Development<br>📚 Exploring new tools and technologies to upskill myself<br>🤝 Open to collaboration and new opportunities<br>🛠️ Interested in Data Analysis, Visualization, and Problem-Solving<br>🌍 Love sharing knowledge through projects and documentation<br>⚡ Always curious to learn something new every day
+Hi 👋, I'm SPK VASEEM
+
+🌱 Currently learning at **Besant Technologies**
+📧 Reach me at: spkvaseem2004@gmail.com
+
+
+🚀 **About Me**
+🎓 Currently pursuing training at Besant Technologies
+💻 Passionate about learning and building projects in Data Science / Development
+📚 Exploring new tools and technologies to upskill myself
+🤝 Open to collaboration and new opportunities
+🛠️ Interested in Data Analysis, Visualization, and Problem-Solving
+🌍 Love sharing knowledge through projects and documentation
+⚡ Always curious to learn something new every day
+## 🛠️ Skills & Tools
+
+### 💻 Languages: Python| MYSQL
+### 📊 Data Tools: Power BI | Excel | Pandas| Numpy
+### 🔧 Other Tools
+- Git  
+- GitHub  
+
+---
+
+## 🌐 Connect with Me
+
+📩 **Email:**  
+[spkvaseem2004@gmail.com](mailto:spkvaseem2004@gmail.com)
+
+💼 **LinkedIn:**  
+[View my LinkedIn Profile](https://www.linkedin.com/in/spk-vaseem-4a758a272)
+
+
 
 - 📫 How to reach me **spkvaseem2004@gmail.com**
 
@@ -25,6 +53,7 @@ Hi 👋, I'm SPK VASEEM</h1>
 ### 🔝 Top Contributed Repo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamvaseem&show_icons=true&locale=en" alt="Iamvaseem" /></p>
 <img width="638" height="307" alt="Screenshot 2025-12-27 223016" src="https://github.com/user-attachments/assets/62bf8314-505d-4a95-9c15-e0693cf9b1b0" />
+<img width="638" height="307" alt="Screenshot 2025-12-27 223016" src="https://github.com/user-attachments/assets/15dd5f7f-efea-4836-a800-b0239072e06c" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Iamvaseem&icon=1&color=0)](https://visitcount.itsvg.in)
