@@ -1,17 +1,20 @@
 Hi 👋, I'm SPK VASEEM
 
 🌱 Currently learning at **Besant Technologies**
+
 📧 Reach me at: spkvaseem2004@gmail.com
 
 
-🚀 **About Me**
-🎓 Currently pursuing training at Besant Technologies
-💻 Passionate about learning and building projects in Data Science / Development
-📚 Exploring new tools and technologies to upskill myself
-🤝 Open to collaboration and new opportunities
-🛠️ Interested in Data Analysis, Visualization, and Problem-Solving
-🌍 Love sharing knowledge through projects and documentation
-⚡ Always curious to learn something new every day
+🚀 **About Me**  
+🎓 Currently pursuing training at **Besant Technologies**  
+💻 Passionate about **Data Analyst** and **Development**  
+📚 Exploring new tools and technologies to upskill myself  
+🤝 Open to collaboration and new opportunities  
+🛠️ Interested in **Data Analysis, Visualization, and Problem-Solving**  
+🌍 Love sharing knowledge through projects and documentation  
+⚡ Always curious to learn something new every day  
+  
+
 ## 🛠️ Skills & Tools
 
 ### 💻 Languages: Python| MYSQL
