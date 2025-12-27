@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm SPK VASEEM</h1>
-# 💫 About Me:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iamvaseem&label=Profile%20views&color=0e75b6&style=flat" alt="Iamvaseem" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iamvaseem" alt="Iamvaseem" /></a> </p>
+
+- 🌱 I’m currently learning at **Besant Technologies**
+- 
+# 🚀 About Me:
 <br>🎓 Currently pursuing training at Besant Technologies<br>💻 Passionate about learning and building projects in Data Science / Development<br>📚 Exploring new tools and technologies to upskill myself<br>🤝 Open to collaboration and new opportunities<br>🛠️ Interested in Data Analysis, Visualization, and Problem-Solving<br>🌍 Love sharing knowledge through projects and documentation<br>⚡ Always curious to learn something new every day
 
 
