@@ -40,13 +40,11 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://instagram.com/vaseem_akram___)
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iamvaseem&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamvaseem&layout=compact&theme=radical" width="48%"/>
 </p>
-
 ---
 
 ### 🏆 GitHub Trophies
