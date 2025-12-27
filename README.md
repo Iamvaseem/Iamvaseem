@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SPK VASEEM</h1>
 <h3 align="center">Aspiring Data Analyst | B.Tech EEE Graduate</h3>
-
+![Developer GIF](https://your-image-link.gif)
 ---
 
 ### 👨‍💻 About Me
