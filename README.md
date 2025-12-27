@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm SPK VASEEM</h1>
 <h3 align="center">Aspiring Data Analyst | B.Tech EEE Graduate</h3>
 
----
-<div align="center">
-  <img src="GIF_LINK_HERE" alt="Coding animation" width="400"/>
-</div>
-
+<img align= "right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ### 👨‍💻 About Me
 - 📊 Aspiring **Data Analyst** with strong analytical skills  
 - 🎓 B.Tech in **Electrical & Electronics Engineering**  
