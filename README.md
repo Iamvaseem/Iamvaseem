@@ -2,9 +2,10 @@
 <h3 align="center">Aspiring Data Analyst | B.Tech EEE Graduate</h3>
 
 ---
-## 👨‍💻 About Me
+<div align="center">
+  <img src="GIF_LINK_HERE" alt="Coding animation" width="400"/>
+</div>
 
-![Coding GIF](IMAGE_LINK_HERE)
 ### 👨‍💻 About Me
 - 📊 Aspiring **Data Analyst** with strong analytical skills  
 - 🎓 B.Tech in **Electrical & Electronics Engineering**  
