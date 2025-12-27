@@ -1,38 +1,32 @@
 <h1 align="center">Hi 👋, I'm SPK VASEEM</h1>
+# 💫 About Me:
+<br>🎓 Currently pursuing training at Besant Technologies<br>💻 Passionate about learning and building projects in Data Science / Development<br>📚 Exploring new tools and technologies to upskill myself<br>🤝 Open to collaboration and new opportunities<br>🛠️ Interested in Data Analysis, Visualization, and Problem-Solving<br>🌍 Love sharing knowledge through projects and documentation<br>⚡ Always curious to learn something new every day
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iamvaseem&label=Profile%20views&color=0e75b6&style=flat" alt="Iamvaseem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iamvaseem" alt="Iamvaseem" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaseem_akram___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/spk-vaseem-4a758a272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spkvaseem2004@gmail.com) 
 
-- 🌱 I’m currently learning at **Besant Technologies**
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Iamvaseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Iamvaseem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamvaseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🚀 About Me **
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Iamvaseem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🎓 Currently pursuing training at Besant Technologies
-💻 Passionate about learning and building projects in Data Analytics.
-📚 Exploring new tools and technologies to upskill myself 🤝 Open to collaboration and new opportunities
-🛠️ Interested in Data Analysis, Visualization, and Problem-Solving 
-🌍 Love sharing knowledge through projects and documentation 
-⚡ Always curious to learn something new every day**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 📫 How to reach me **spkvaseem2004@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Iamvaseem&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **I think I am Funny**
+---
+[![](https://visitcount.itsvg.in/api?id=Iamvaseem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/spk-vaseem-4a758a272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/spk-vaseem-4a758a272" height="30" width="40" /></a>
-<a href="https://instagram.com/vaseem_akram___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaseem_akram___" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=\iamvaseem&show_icons=true&locale=en&layout=compact" alt="iamvaseem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvaseem&show_icons=true&locale=en" alt="iamvaseem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvaseem&" alt="iamvaseem" /></p>
 
 
 
