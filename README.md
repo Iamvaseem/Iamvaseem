@@ -26,7 +26,7 @@
 ---
 
 ### 📌 Featured Projects
-- 🐍 **Snake Game** – Python  
+- 🐍  Python  
 - 📊 **Sales Analysis Dashboard** – Power BI  
 - 🗄 **SQL Data Cleaning & Analysis Project**  
 - 🐍 **Python Pandas EDA Project**
