@@ -6,7 +6,14 @@
 
 - 🌱 I’m currently learning at **Besant Technologies**
 
-- 🚀 About Me **🎓 Currently pursuing training at Besant Technologies 💻 Passionate about learning and building projects in Data Science / Development 📚 Exploring new tools and technologies to upskill myself 🤝 Open to collaboration and new opportunities 🛠️ Interested in Data Analysis, Visualization, and Problem-Solving 🌍 Love sharing knowledge through projects and documentation ⚡ Always curious to learn something new every day**
+- 🚀 About Me **
+
+🎓 Currently pursuing training at Besant Technologies
+💻 Passionate about learning and building projects in Data Analytics.
+📚 Exploring new tools and technologies to upskill myself 🤝 Open to collaboration and new opportunities
+🛠️ Interested in Data Analysis, Visualization, and Problem-Solving 
+🌍 Love sharing knowledge through projects and documentation 
+⚡ Always curious to learn something new every day**
 
 - 📫 How to reach me **spkvaseem2004@gmail.com**
 
@@ -21,12 +28,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamvaseem&show_icons=true&locale=en&layout=compact" alt="Iamvaseem" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=\iamvaseem&show_icons=true&locale=en&layout=compact" alt="iamvaseem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamvaseem&show_icons=true&locale=en" alt="Iamvaseem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvaseem&show_icons=true&locale=en" alt="iamvaseem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvaseem&" alt="Iamvaseem" /></p>
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvaseem&" alt="iamvaseem" /></p>
 
 
 
